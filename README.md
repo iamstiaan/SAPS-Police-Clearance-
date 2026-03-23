@@ -17,7 +17,7 @@ Setup
 
 1. Clone the repository:
 
-git clone https://github.com/Stiaan/SAPSPoliceClearance.git
+git clone https://github.com/iamstiaan/SAPSPoliceClearance.git
 
 
 2. Open index.html in a browser to view the homepage.
